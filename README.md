@@ -1,2 +1,2 @@
 # Text.py
-Test repo
+Test repo for gits commands demonstration
